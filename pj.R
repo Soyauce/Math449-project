@@ -1,3 +1,6 @@
+#### Jingning Zheng, Justin Fang
+#### Data: Bike Buyer
+
 library(MASS)
 library(VGAM)
 library(vcd)
